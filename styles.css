@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+
+#submit, .m{
+    margin-left: 200px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+#cancel, #update{
+    font-weight: bold;
+}
+
+#name, #age, #location, #inname, #inage, #inlocation{
+    margin-left: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.ab{
+    border: 1px solid black;
+    margin-top: 50px;
+    border-spacing: 15px;
+}
+
+#inlocation{
+    width: 220px;
+}
